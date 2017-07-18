@@ -10,7 +10,7 @@
 			These include Texas, Colorado, Montana and Alaska.</p>
 		<p>One of my goals I am trying to achieve is to complete an ultra-marathon.  If you are not familiar with
 			an ultra-marathon it is any distance that is longer than 26 miles.  I started on this goal last year
-			but I injured my hip before I was able to reach my goal.</p>
+			but I injured my hip before I was able to reach my goal of 26+ miles.</p>
 		<p><img src="images/steve-run.jpg" alt="finish line"></p>
 	</body>
 </html>
